@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-recipe-finder/static/css/main.82c0b6c1.chunk.css"
   },
   {
-    "revision": "cf7a7d61d432503aebae0d7fca02e01f",
+    "revision": "b36807a6da4f5e6df993455eea02aea9",
     "url": "/react-recipe-finder/index.html"
   }
 ];
