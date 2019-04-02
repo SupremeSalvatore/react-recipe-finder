@@ -1,4 +1,4 @@
-# React Movie Finder
+# React Recipe Finder
 
 This app is made for practice in react using [food2fork](https://www.food2fork.com/about/api) api with react router and some bootstrap. This was from tutorial I found on Youtube channel Code Addict.  
 You can check app here [https://supremesalvatore.github.io/react-recipe-finder/](https://supremesalvatore.github.io/react-recipe-finder/)
